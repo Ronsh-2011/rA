@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\minecraft"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ADVC87template-main"
+	}
+}
